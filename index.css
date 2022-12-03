@@ -1,0 +1,13 @@
+#successValue {
+  text-align: right;
+  width: 200px;
+}
+
+#submitButton {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.output {
+  font-family: monospace;
+}
